@@ -1,0 +1,10 @@
+ Volume in drive C is Widnows 10
+ Volume Serial Number is EAE8-8DE3
+
+ Directory of C:\Users\hp\Desktop\MyProject
+
+12/22/2023  05:22 PM    <DIR>          .
+12/22/2023  05:08 PM    <DIR>          ..
+12/22/2023  05:22 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  21,779,320,832 bytes free
